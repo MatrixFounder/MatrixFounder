@@ -21,7 +21,7 @@
 <p>
   <a href="mailto:kuptsov.sergey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <!-- TODO: replace with your Telegram handle -->
-  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/mrgywolf"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://github.com/MatrixFounder"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://komarev.com/ghpvc/?username=MatrixFounder&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views">
 </p>
@@ -73,7 +73,7 @@ JSON schemas instead of prompt-magic), **TDD / VDD**, and **top-notch**, reusabl
 *The work I'm most proud of — open and ready to explore:*
 
 - **[Agentic Development Framework](https://github.com/MatrixFounder/Agentic-development)** — a multi-agent development system: vague requirements → quality code through a strict pipeline of agents (Analyst / Architect / Planner / Developer / Reviewer / Security) combining TDD + VDD methodologies. _Stack: Python, Markdown, Claude Code / Gemini / Cursor._
-- **[Universal-Skills](https://github.com/MatrixFounder/Universal-skills)** — a collection of agent-agnostic "meta-skills" (docx/xlsx/pptx/pdf, MCP builder, VDD review, humanizer, summarizing) shipped with a ready-to-use Claude Code marketplace. _Stack: Python, Node.js, Bash._
+- **[Universal-Skills](https://github.com/MatrixFounder/Universal-skills)** — a collection of agent-agnostic "meta-skills" (docx/xlsx/pptx/pdf, MCP builder, VDD review, humanizer, summarizing, auto-improving) shipped with a ready-to-use Claude Code marketplace. _Stack: Python, Node.js, Bash._
 - **[obsidian-llm-wiki](https://github.com/MatrixFounder/llm-wiki)** — a multi-vault knowledge base on Karpathy's llm-wiki pattern: Markdown as the source of truth, SQLite (FTS5) as a 100%-rebuildable cache, RAG-with-citations, and `/wiki-*` slash commands. _Stack: Python, SQLite, Obsidian._
 
 #### 🧰 Tools & Utilities
