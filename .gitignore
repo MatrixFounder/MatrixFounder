@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+Icon
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code / local agent config (keep out of a public profile repo)
+.claude/
+CLAUDE.local.md
+
+# Tooling artifacts (in case stat/badge generators are added later)
+node_modules/
+.venv/
+*.log
