@@ -12,10 +12,10 @@
 
 # Hi, I'm Sergey 👋
 
-**Agentic Development Architect** — I design multi-agent software-development systems and tooling for AI-IDEs.
+**Agentic Development Architect** — I build multi-agent systems and tooling that make organizations AI-native, from software-development pipelines to process & knowledge automation.
 
 <a href="https://github.com/MatrixFounder">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agentic+Development+Architect;Multi-agent+software-development+pipelines;Skills%2C+workflows+%26+hooks+for+AI-IDEs;From+transcripts+to+production+artifacts" alt="typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agentic+Development+Architect;Tooling+for+AI-native+organizations;Multi-agent+software-development+pipelines;Skills%2C+workflows+%26+hooks+for+AI-IDEs;From+transcripts+to+production+artifacts" alt="typing SVG" />
 </a>
 
 <p>
@@ -32,16 +32,25 @@
 
 ### 👨‍💻 About Me
 
-I build **enterprise-ready agentic software-development systems** — turning vague requirements into
-**high-quality**, predictable output through disciplined pipelines of specialized AI agents (Analyst →
-Architect → Planner → Developer → Reviewer → Security). Strong focus on **determinism** (scripts and
-JSON schemas instead of prompt-magic), **TDD / VDD**, and **top-notch**, reusable skills for AI-IDEs
-(Claude Code, Antigravity, Cursor, Gemini CLI, Codex).
+I build **enterprise-ready agentic systems** — the pipelines, tooling, and infrastructure that turn
+vague requirements into **high-quality**, predictable output and help organizations become genuinely
+**AI-native**. My work spans two layers:
 
-- 🔭 **Working on:** the [Multi-Agent Software Development System](https://github.com/MatrixFounder/Agentic-development) and the [Universal-Skills](https://github.com/MatrixFounder/Universal-skills) catalog
-- 🛠️ **Building:** skills / workflows / hooks for agents, and automation that goes `transcript → process passport → BPMN → DOCX`
+- 🧩 **Agentic software development** — disciplined pipelines of specialized AI agents (Analyst →
+  Architect → Planner → Developer → Reviewer → Security) that take requirements all the way to
+  production-grade code.
+- 🏢 **AI-native operations** — agentic tooling for the rest of the organization: RAG knowledge bases,
+  business-process & document automation (`transcript → process passport → BPMN → DOCX`), and
+  consulting / pre-sales workflows.
+
+Across both, I obsess over **determinism** (scripts and JSON schemas instead of prompt-magic),
+**TDD / VDD** (verification-driven development), and **top-notch, reusable skills / workflows / hooks**
+for AI-IDEs and agent platforms (Claude Code, Antigravity, Cursor, Gemini CLI, Codex).
+
+- 🔭 **Working on:** the [Multi-Agent Software Development System](https://github.com/MatrixFounder/Agentic-development) and the [Universal-Skills](https://github.com/MatrixFounder/Universal-skills) catalog — plus the tooling that makes organizations AI-native end-to-end
+- 🛠️ **Building:** complex AI automations and **agent- & vendor-agnostic** systems — agent skills / workflows / hooks, RAG knowledge bases, and end-to-end pipelines (one case among many: `transcript → process passport → BPMN → DOCX`)
 - 🌱 **Learning:** context engineering, adversarial verification (VDD), and RAG over local knowledge bases
-- 💬 **Ask me about:** agentic development, AI assistants in software engineering, skills for Claude Code / Antigravity / Cursor
+- 💬 **Ask me about:** agentic development, building AI-native organizations, AI assistants in software engineering, and skills for Claude Code / Antigravity / Cursor
 - 📫 **Reach me:** [kuptsov.sergey@gmail.com](mailto:kuptsov.sergey@gmail.com)
 
 ---
