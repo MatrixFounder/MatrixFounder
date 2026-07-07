@@ -97,6 +97,7 @@ for AI-IDEs and agent platforms (Claude Code, Antigravity, Cursor, Gemini CLI, C
 - **Elma365 Gantt Widget** — automation for task planning in Elma365: a high-performance, interactive Gantt-chart widget (hierarchy, drag & drop, dynamic timeline).
 - **n8n Agent Skills & Conversation Pipeline** — enterprise automation orchestrated in n8n: `audio → transcription (Whisper) → meeting protocol (LLM) → DOCX`, with a job dashboard.
 - **Demand Generation Automation** — automated demand-generation and commercial-proposal pipelines for pre-sales workflows.
+- **Project & Support calculation** - Tools for project assessment and technical support for enterprise clients
 
 #### 🔎 Browse by topic
 
